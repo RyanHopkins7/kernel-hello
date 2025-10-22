@@ -1,0 +1,1 @@
+savedcmd_/home/localadmin/kernel-hello/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/localadmin/kernel-hello/Module.symvers -n -T /home/localadmin/kernel-hello/modules.order -i Module.symvers -e 
